@@ -1,0 +1,55 @@
+.desktop {
+  background-color: #0c072b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #0c072b;
+  border: 1px none;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop .group {
+  height: 74px;
+  left: 442px;
+  position: absolute;
+  top: 83px;
+  width: 559px;
+}
+
+.desktop .overlap-group {
+  background-color: #d76cd9;
+  border-radius: 40px;
+  height: 74px;
+  position: relative;
+  width: 557px;
+}
+
+.desktop .text-wrapper {
+  color: #ffffff;
+  font-family: "Nunito-Bold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  height: 37px;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: 496px;
+}
+
+.desktop .hello-im-sky-ive {
+  height: 124px;
+  left: 400px;
+  position: absolute;
+  top: 188px;
+  width: 642px;
+}
